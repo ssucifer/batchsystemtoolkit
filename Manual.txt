@@ -1,0 +1,63 @@
+-----------------------------------------------------
+* This is a list of all avaliable options and their *
+* descriptions in BatchSystemToolkit.               *
+-----------------------------------------------------
+
+If you are asked in any of the options this question:
+Do you wish to exit?
+[y/n]?
+
+y- stands for YES - you will exit the program
+n- stands for NO - you will go back to menu
+
+
+If you want to change font size right click on top blank space
+and click Properties, go to the font tab and select font size, click OK.
+
+
+[1] Check disk for errors and repair
+
+-checks disk for errors and tries to solve them
+
+[2] Check all drivers 
+
+-lists all installed drivers
+
+[3] IP configuration
+
+-displays Windows IP Configuration
+
+[4] Schedule shutdown PC
+
+-enables you to shutdown your PC at desired time and allows you to cancel the shutdown
+
+[5] Restart PC
+
+-enables you to restart your PC from command line
+
+[6] Check system information
+
+-checks and lists your system information
+
+[7] Check all running tasks
+
+-lists all running tasks
+
+[8] Kill task
+
+-enables you to kill desired task
+
+[9] Check internet connection via Google
+
+-checks internet connection via Google:
+* if packets are sent your connection is working
+* if you see this message: "Ping request could not find host google.com. Please check the name and try again."
+you are not connected to the internet or your connection is broken
+
+[10] System configuration
+
+-opens system configuration tool
+
+[11] Your MAC address
+
+-displays your MAC address

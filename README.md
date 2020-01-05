@@ -7,7 +7,7 @@ This batch toolkit allows you to get fast information about your system that you
 Batch System Toolkit is a lightweight tool for automation and information of your Windows OS PC.  
 
 - Check system configuration  
-- Automate shutdown of your PC  
+- Automate shutdown and restart functions of your PC  
 - Check internet connection, IP and MAC address, kill tasks and much more...  
 
 
